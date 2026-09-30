@@ -237,6 +237,7 @@ For building custom recruiting workflows and integrations.
 - **[JazzHR API](https://jazzhr.com/api)** — ATS API. Free with JazzHR subscription.
 - **[LinkedIn Talent Solutions API](https://docs.microsoft.com/linkedin)** — Sourcing and job posting API. Partner access required.
 - **[Indeed API](https://opensource.indeedeng.io)** — Job posting and sourcing. Partner access required.
+- **[Techmap Jobs API](https://jobdatafeeds.com/job-api)** — Job postings API and RSS feeds covering 250 countries (~8M new postings per month) for sourcing, market mapping and job board backfill. Free tier with 1,000 postings/month.
 
 ---
 
